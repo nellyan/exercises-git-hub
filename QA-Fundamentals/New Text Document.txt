@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Git exercise</title>
+</head>
+<body>
